@@ -64,7 +64,7 @@ To setup CI/CD pipeline with HEROKU we need 3 information
 While creating new app in heroku put dashes between words
 
 1. HEROKU_EMAIL = nesibegl@gmail.com
-2. HEROKU_API_KEY = 93f1984f-8770-421f-8a05-59ed4b36ab98
+2. HEROKU_API_KEY = <>
 3. HEROKU_APP_NAME = ml-with-docker
 
 
@@ -85,6 +85,20 @@ Run docker image
 
 '''
 docker run -p 5000:5000 -e PORT=5000 <imageid>
+
+To check running docker container
+
+'''
+docker ps
+'''
+
+To stop docker container
+
+'''
+docker stop <containerid>
+
+'''
+
 
 
 
