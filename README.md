@@ -11,7 +11,7 @@ Software and account Requirement:
 
 --create virtual env in your folder:
 '''
-create conda -p venv python==3.8 -y
+conda create -p venv python==3.8 -y
 '''
 ----------------------------------------------------------------
 activate your environment
