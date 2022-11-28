@@ -2,11 +2,11 @@
 
 Software and account Requirement:
 
-1.  [Github Account] (https://github.com/)
-2.  [Heroku Account] (https://dashboard.heroku.com/apps)
-3.  [VS Code IDE] (https://code.visualstudio.com/download)
-4.  [GIT cli]  (https://cli.github.com/)
-5.  [Git Documentation] (https://git-scm.com/docs/gittutorial)
+1.  [Github Account](https://github.com/)
+2.  [Heroku Account](https://dashboard.heroku.com/apps)
+3.  [VS Code IDE](https://code.visualstudio.com/download)
+4.  [GIT cli] (https://cli.github.com/)
+5.  [Git Documentation](https://git-scm.com/docs/gittutorial)
 
 
 --create virtual env in your folder:
